@@ -29,7 +29,8 @@ O desafio de criar um conteúdo que pareça 'natty' (natural) utilizando IA foi 
 
 ---
 
-- [LINK PARA O VÍDEO AQUI](output/meu_video.mp4)
+- [LINK PARA O VÍDEO AQUI](output/meu_video.mp3)
+
 
 ## Agradecimentos Especiais
 
