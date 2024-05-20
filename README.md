@@ -1,48 +1,40 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
 
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
-
-## 📒 Descrição
-Breve descrição do seu projeto
-
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+# Criando um vídeo com IAs Generativas: "Natty or not;)
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+
+## 📒 Descrição
+Este produto foi criado durante o Bootcamp Santander 2024 em parceria com a DIO, utilizando ferramentas de inteligência artificial para a produção de conteúdo e abordou como podemos manipular nossos próprios avatares e usar ferramentas de IA para enriquecer o ensino e outras áreas criativas.
+
+## 🤖 Tecnologias Utilizadas
+- **ChatGPT:** Para gerar o roteiro do podcast.
+- **Virbo** Para criar o vídeo
+
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+-  Durante o bootcamp tive insights sobre como podemos utilizar IAs generativas para manipular avatares e melhorar práticas educacionais.
 
-### Exemplos e Insigths
+## 💭 Reflexão
+O desafio de criar um conteúdo que pareça 'natty' (natural) utilizando IA foi uma experiência complicada, especialmente porque a maioria dos recursos são pagos, e busquei alternativas gratuitas. Foi interessante ver como as ferramentas de inteligência artificial podem ser usadas para preservar a autenticidade. Talvez a singularidade ainda não seja totalmente acessível, o que reforça a necessidade de recursos inteligentes de domínio público em conteúdos educativos e criativos.
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+
+## 🌟 Insights
+- **Avatar Personalizado:** Manipulação do avatar para criar uma identidade visual singular.
+- **Educação:** Uso de ferramentas de IA para enriquecer o ensino, tornando-o mais interativo e envolvente.
+- **Criatividade:** Exploração de como podemos ser arquitetos no processo criativo superando limitações humanas e expandindo possibilidades.
+
+---
+
+- [LINK PARA O VÍDEO AQUI](output/meu_video.mp4)
+
+## Agradecimentos Especiais
+
+Gostaria de expressar minha gratidão ao tutor [falvojr](https://www.linkedin.com/in/falvojr), que ofereceu orientação valiosa e suporte durante todo o desenvolvimento deste projeto. Além disso, gostaria de agradecer à [DIO](https://www.linkedin.com/school/dio-makethechange) por fornecer o ambiente propício e recursos necessários para a realização deste trabalho.
+
 
 ## Links Interessantes
 
