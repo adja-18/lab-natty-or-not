@@ -10,8 +10,9 @@
 Este produto foi criado durante o Bootcamp Santander 2024 em parceria com a DIO, utilizando ferramentas de inteligência artificial para a produção de conteúdo e abordou como podemos manipular nossos próprios avatares e usar ferramentas de IA para enriquecer o ensino e outras áreas criativas.
 
 ## 🤖 Tecnologias Utilizadas
-- **ChatGPT:** Para gerar o roteiro do podcast.
-- **Virbo** Para criar o vídeo
+-Tecnologias Utilizadas
+- IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização e revisão;
+- **[Virbo](https://aiapp.vidnoz.com/)**  para sintetização de voz e geração de avatar virtual;
 
 
 ## 🚀 Resultados
@@ -19,7 +20,7 @@ Este produto foi criado durante o Bootcamp Santander 2024 em parceria com a DIO,
 -  Durante o bootcamp tive insights sobre como podemos utilizar IAs generativas para manipular avatares e melhorar práticas educacionais.
 
 ## 💭 Reflexão
-O desafio de criar um conteúdo que pareça 'natty' (natural) utilizando IA foi uma experiência complicada, especialmente porque a maioria dos recursos são pagos, e busquei alternativas gratuitas. Foi interessante ver como as ferramentas de inteligência artificial podem ser usadas para preservar a autenticidade. Talvez a singularidade ainda não seja totalmente acessível, o que reforça a necessidade de recursos inteligentes de domínio público em conteúdos educativos e criativos.
+O desafio de criar um conteúdo que pareça 'natty' (natural) utilizando IA foi uma experiência complicada, especialmente porque a maioria dos recursos são pagos, busquei alternativas gratuitas. Foi interessante ver como as ferramentas de inteligência artificial podem ser usadas para preservar a autenticidade. Talvez a singularidade ainda não seja totalmente acessível, o que reforça a necessidade de recursos inteligentes de domínio público em conteúdos educativos e criativos.
 
 
 ## 🌟 Insights
